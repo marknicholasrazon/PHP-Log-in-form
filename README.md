@@ -1,4 +1,4 @@
-# README files for Log in form using PHP and MySQL
+# README file for Log in form using PHP and MySQL
 
 ##### Table of contents
 - Download Zip file
@@ -14,3 +14,5 @@
 - Knowledge of HTML, CSS, PHP, and MySQL
 - Microsoft Visual Studio / Sublime Text (For writing the code)
 - Installation of XAMPP
+
+Happy coding!
